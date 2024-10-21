@@ -1,0 +1,20 @@
+﻿  Application.cpp
+C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\zpgProjectWoj0071\Controller.h(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\zpgProjectWoj0071\Controller.h(46,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\zpgProjectWoj0071\Controller.h(49,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\zpgProjectWoj0071\Controller.h(50,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\zpgProjectWoj0071\Controller.h(51,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\zpgProjectWoj0071\Controller.h(52,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+  zpgProjectWoj0071.vcxproj -> C:\Users\wojnard\Documents\WOJ0071_ZPG\zpgGameProject (1)\zpgGameProject\zpgGameProject\zpgGameProject\zpgProjectWoj0071\x64\Debug\zpgProjectWoj0071.exe
